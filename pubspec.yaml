@@ -1,7 +1,10 @@
 name: flowy_graph
-description: "A new Flutter project."
+
+description: A Flutter package for building interactive node-based editors, flow diagrams, and graph visualizations with ease.
 version: 0.0.1
-homepage:
+repository: https://github.com/Ahmad0Tanveer/flowy_graph
+homepage: https://github.com/Ahmad0Tanveer/flowy_graph
+issue_tracker: https://github.com/Ahmad0Tanveer/flowy_graph/issues
 
 environment:
   sdk: ^3.9.0
@@ -17,5 +20,10 @@ dev_dependencies:
   flutter_lints: ^6.0.0
   vector_math: ^2.2.0
 
-flutter:
+topics:
+  - react-flow
+  - react-flow
+  - flow-builder
+  - workflow
+  - canvas
 
