@@ -152,7 +152,7 @@ class _Example1PageState extends State<Example1Page> {
 }
 ```
 
-![Simple Canvas Example](assets/axample-1.png)
+![Simple Canvas Example](./axample-1.png)
 
 ### Example 2: Multiple Node Types with Properties
 
@@ -690,7 +690,8 @@ NodeWidgetBase sinkNode(String name) {
 }
 ```
 
-![Multiple Node Types Example](assets/example-2.png)
+![Multiple Node Types Example](./example-2.png)
+
 
 ## 🛠 Example Project
 
@@ -745,7 +746,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## ❤️ Credits
 
-Created by Your Name.  
+Created by Tanveer Ahmad.  
 Inspired by React Flow but reimagined for the Flutter ecosystem.
 
 ## 🛒 Exclusive Software Deals
